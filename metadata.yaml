@@ -1,0 +1,12 @@
+- name: the-peak-font
+  displayname: 隨峰體
+  category: handwriting
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/the-peak-font
+        codes: 6100
+        weight: 400
+        xfl: true
